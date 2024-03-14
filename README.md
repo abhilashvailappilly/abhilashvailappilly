@@ -127,7 +127,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhilashvailappilly&theme=whatsapp-dark2&background=45%2C04100C%2C404040" alt="GitHub Streak" /></a>
 </div>
 
 ###
