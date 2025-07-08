@@ -1,5 +1,5 @@
 <h1 align="left">Abhilash V S </h1>
-<h2 align="left">MERN STACK DEVELOPER</h2>
+<h2 align="left">Software DEVELOPER</h2>
 
 ###
 
